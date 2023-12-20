@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rafael Jacov Medel</h1>
-<h3 align="center">A passionate developer from Philippines 🇵🇭. "🚀 Coding the future, one commit at a time | Tech enthusiast on a quest for elegant solutions | Ctrl + Alt + Achieve 🌟"</h3>
+<h1 align="center">Hi 👋, I'm Rafael</h1>
+<h3 align="center">A passionate developer from Philippines 🇵🇭. A computer science student at 🔵 University of Negros Occidental - Recoletos 🟡. "🚀 Coding the future, one commit at a time | Tech enthusiast on a quest for elegant solutions | Ctrl + Alt + Achieve 🌟"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaeljacov&label=Profile%20views&color=0e75b6&style=flat" alt="rafaeljacov" /> </p>
 
