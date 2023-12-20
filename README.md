@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A passionate developer from Philippines 🇵🇭.</h3>
-<h3 align="center">A computer science student at 🔵 University of Negros Occidental - Recoletos 🟡.</h3>
+<h3 align="center">I am a computer science student at 🔵 University of Negros Occidental - Recoletos 🟡.</h3>
 <h4 align="center">"🚀 Coding the future, one commit at a time | Tech enthusiast on a quest for elegant solutions | Ctrl + Alt + Achieve 🌟"</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaeljacov&label=Profile%20views&color=0e75b6&style=flat" alt="rafaeljacov" /> </p>
