@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaeljacov" alt="rafaeljacov" /></a> </p>
 
-- 🌱 I’m currently learning **Qwik, C, Lua,**
+- 🌱 I’m currently learning **C, Lua, GO**
 
 - 📫 How to reach me **medelrafjac@gmail.com**
 
-- ⚡ Fun fact **I use arch btw.**
+- ⚡ Fun fact **I use vim btw.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
