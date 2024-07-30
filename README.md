@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaeljacov" alt="rafaeljacov" /></a> </p>
 
-- 🌱 I’m currently learning **C, Lua, GO**
+- 🌱 I’m currently learning **C, Lua, GO, Rust**
 
 - 📫 How to reach me **medelrafjac@gmail.com**
 
