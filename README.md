@@ -11,7 +11,7 @@
 - I'm studying **Computer Science**
 - Currently Learning **Rust**, **Go**, and **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
-- I love exploring and learning various fields in **programming**
+- I love exploring and learning various fields in **Programming**
 
 ### Programming Languages:
 
