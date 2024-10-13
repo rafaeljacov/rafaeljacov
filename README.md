@@ -1,13 +1,17 @@
-## Hi there, I'm Rafael Jacov
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FF7625&center=true&width=435&lines=Welcome++Scrubs!+;Beware!+Bad+codes+ahead;You+dare+copy-paste++%3AP" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </p>
 
+## Hi there, I'm Rafael Jacov
 
 - I'm studying **Computer Science**
-- Currently Learning **Rust**, **Go**, **Web Development** And **Machine Learning**
+- Currently Learning **Rust**, **Go**, and **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
+- I love exploring and learning various fields in **programming**
 
 ### Programming Languages:
 
