@@ -9,7 +9,7 @@
 - Currently Learning **Rust**, **Go**, **Web Development** And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
 
-### Programming Languages....
+### Programming Languages:
 
 <p align="center">
   <img width="10%" style="padding:5px" src="https://github.com/user-attachments/assets/2474bd5e-f85c-47e8-a648-1d20f5f14670"/>
