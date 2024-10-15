@@ -22,6 +22,7 @@
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/typescript.png"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 </p>
 
