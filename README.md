@@ -18,7 +18,8 @@
 <p align="center">
   <img width="10%" style="padding:5px" src="https://github.com/user-attachments/assets/2474bd5e-f85c-47e8-a648-1d20f5f14670"/>
   <img width="10%" style="padding:5px" src="https://github.com/user-attachments/assets/a5b489bb-8378-4114-a0bc-c4ad2a85a84c"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000"/>
+  <img width="10%" style="padding:5px" src="https://github.com/user-attachments/assets/2354d303-6dca-4f8f-8b96-da14f213010d"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
